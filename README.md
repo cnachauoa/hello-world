@@ -1,4 +1,5 @@
 # hello-world
 
 hi there,
-   this is a test from feature branch, waiting for merge with the master
+   this is a test from readme-edit branch, waiting for merge with the master
+  
